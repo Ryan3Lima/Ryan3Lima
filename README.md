@@ -16,3 +16,5 @@ I'm currently an Ecohydrology Post-Doc at Northern Arizona University. I work in
 - Lima, R., A. Springer, T. Sankey (2025). Arizona Lineaments derived from 10m DEM Multi-Directional Hillshade, HydroShare, https://doi.org/10.4211/hs.6972730012384cc788bb5b3d0e686083
   
 - Lima, R., A. Springer, T. Sankey (2025). Arizona Soil Moisture Infiltration Index, HydroShare, https://doi.org/10.4211/hs.6811679ffd7c4cbabeac9d520026a7b4
+
+- Lima, R., A. E. Springer, T. Sankey (2025). Arizona Topographic Relative Moisture Index (TRMI), HydroShare, https://doi.org/10.4211/hs.6cc17c1cf6e0445a93d78b065e102d41
