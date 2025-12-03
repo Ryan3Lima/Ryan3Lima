@@ -9,6 +9,27 @@ I'm currently an Ecohydrology Post-Doc at Northern Arizona University. I work in
 [Personal Website](https://www.ryanlimaphoto.com/) | [LinkedIn](https://www.linkedin.com/in/ryan-lima-32b63939/)| [ResearchGate](https://www.researchgate.net/profile/Ryan-Lima)|
 [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5352-7215)
 
+# Recent Web Applications
+
+[Arizona HUC10 Basin Data Downloader](https://az-huc10-basin-data-downloader.streamlit.app/) 
+
+When you choose a HUC10 within Arizona, the app with gather the following for download:
+
+- roads from Open Street Maps
+- Flowlines from NHD_HR
+- HUC10 shapefile
+- 1/3 Arcsecond DEM clipped to the HUC10 basin
+
+[Arizona Well Data Explorer](https://arizona-well-data-explorer.streamlit.app/)
+
+The interactive groundwater data explorer for Arizona. 
+This app utilizes data from the 2024 GWSI well database and allows you to:
+
+- Visualize groundwater well depths and water level elevations.
+- Explore well characteristics by region, aquifer, and geology.
+- Overlay hydrologic features like Subbasins, AMAs, and Major Aquifers.
+
+
 # Recent Publications and Datasets
 
 - Lima, R., A. Springer, T. Sankey (2025). Arizona Subsurface Infiltration Index v.2, HydroShare, https://doi.org/10.4211/hs.abcd8aa1a793463ab33677ce9d46db58
