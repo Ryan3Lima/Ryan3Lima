@@ -1,10 +1,10 @@
 # Hello, I'm Ryan!
 
-I'm currently an Ecohydrology Post-Doc at Northern Arizona University. I work in the [Remote Sensing and Geoinformatics](https://sites.google.com/a/nau.edu/remote-sensing-lab/home) and the Springs Ecohydrology labs
+I'm currently a Hydrologist and Soil Scientist at GeoSystems Analysis
 - 😄 Pronouns: He/Him
 - 💬 Ask me about : the AIIOHEDPMGAA
 - 🔭 I’m currently working on: Developing a Groundwater Recharge Suitability Map for the State of Arizona
-- 📫 How to reach me: Ryan.Lima@nau.edu
+- 📫 How to reach me: rylima111@gmail.com
 
 [Personal Website](https://www.ryanlimaphoto.com/) | [LinkedIn](https://www.linkedin.com/in/ryan-lima-32b63939/)| [ResearchGate](https://www.researchgate.net/profile/Ryan-Lima)|
 [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5352-7215)
