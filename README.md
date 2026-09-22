@@ -3,7 +3,7 @@
 I'm currently a Hydrologist and Soil Scientist at GeoSystems Analysis
 - 😄 Pronouns: He/Him
 - 💬 Ask me about : the AIIOHEDPMGAA
-- 🔭 I’m currently working on: Developing a Groundwater Recharge Suitability Map for the State of Arizona
+- 🔭 I’m currently working on developing slope erosion modeling tools.
 - 📫 How to reach me: rylima111@gmail.com
 
 [Personal Website](https://www.ryanlimaphoto.com/) | [LinkedIn](https://www.linkedin.com/in/ryan-lima-32b63939/)| [ResearchGate](https://www.researchgate.net/profile/Ryan-Lima)|
