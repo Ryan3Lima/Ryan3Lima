@@ -11,15 +11,6 @@ I'm currently a Hydrologist and Soil Scientist at GeoSystems Analysis
 
 # Recent Web Applications
 
-[Arizona HUC10 Basin Data Downloader](https://az-huc10-basin-data-downloader.streamlit.app/) 
-
-When you choose a HUC10 within Arizona, the app with gather the following for download:
-
-- roads from Open Street Maps
-- Flowlines from NHD_HR
-- HUC10 shapefile
-- 1/3 Arcsecond DEM clipped to the HUC10 basin
-
 [Arizona Well Data Explorer](https://arizona-well-data-explorer.streamlit.app/)
 
 The interactive groundwater data explorer for Arizona. 
